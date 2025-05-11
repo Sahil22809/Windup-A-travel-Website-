@@ -1,5 +1,7 @@
-![Uploading Screenshot (158).png…]()
-![Uploading image.png…]()
+![Screenshot (158)](https://github.com/user-attachments/assets/f23d3194-e415-4e92-a2a1-e56a3faa6f0d)
+
+![Screenshot (159)](https://github.com/user-attachments/assets/fb767e2d-bd50-4b27-a4a1-ce467c710499)
+
 # Windup-A-travel-Website-
 🌍 WindUp – Travel Website
 WindUp is a responsive and visually engaging travel website built using HTML and CSS. It showcases travel destinations, promotes adventure experiences, and provides users with an inspiring interface to explore the world virtually.
