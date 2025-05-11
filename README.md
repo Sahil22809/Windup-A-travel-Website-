@@ -1,6 +1,7 @@
-![Screenshot (158)](https://github.com/user-attachments/assets/f23d3194-e415-4e92-a2a1-e56a3faa6f0d)
+![Screenshot (158)](https://github.com/user-attachments/assets/12b6c90f-2eb8-4d85-a4ae-084c6911ad73)
 
-![Screenshot (159)](https://github.com/user-attachments/assets/fb767e2d-bd50-4b27-a4a1-ce467c710499)
+![Screenshot (159)](https://github.com/user-attachments/assets/dbab56b2-a596-4f61-b03a-c0cdbaaa431e)
+
 
 # Windup-A-travel-Website-
 🌍 WindUp – Travel Website
